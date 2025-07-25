@@ -5,3 +5,4 @@ seaborn==0.13.2
 plotly==6.2.0
 scikit-learn==1.7.1
 nbformat==5.10.4
+statsmodels==0.14.5
