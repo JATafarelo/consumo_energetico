@@ -212,3 +212,6 @@ mlartifacts/
 
 # duckdb
 data/duckdb/
+
+churn
+churn/
