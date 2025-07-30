@@ -66,6 +66,7 @@ mlflow server --host 127.0.0.1 --port 8080
 O DuckDB não permite múltiplos notebooks escrevendo no mesmo arquivo simultaneamente.
 Sempre reinicie o kernel do notebook ao alternar entre notebooks no VS Code.
 
+Em um novo cmd ative novamente o ambiente virtual com: venv\Scripts\activate
 🧪 Execução do Pipeline
 Você pode executar o pipeline de duas formas:
 
