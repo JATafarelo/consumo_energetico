@@ -97,6 +97,8 @@ models/previsao_consumo/train.ipynb
 models/previsao_consumo/inference.ipynb
 ```
 
+![Pipeline_modelos](data/pipeline_modelos.png)
+
 ---
 
 📊 Dashboards
