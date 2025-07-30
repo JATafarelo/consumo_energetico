@@ -19,6 +19,20 @@ Este repositório contém:
 - 📈 Dashboards Interativos com Dash
 - 🧬 Versionamento de modelos com MLflow
 
+📁 Estrutura do Projeto
+```bash
+├── data/
+├── notebooks/
+│   ├── EDA.ipynb
+│   ├── run.py
+│   └── ETL/
+├── models/
+│   ├── clusterizacao_cliente/
+│   └── previsao_consumo/
+├── requirements.txt
+├── README.md
+```
+
 ---
 
 ## 🚀 Como Executar o Projeto
@@ -82,6 +96,8 @@ models/previsao_consumo/train.ipynb
 models/previsao_consumo/inference.ipynb
 ```
 
+---
+
 📊 Dashboards
 Os dashboards podem ser executados após o treinamento dos modelos.
 Eles utilizam as tabelas geradas e os resultados dos modelos para visualização interativa.
@@ -93,17 +109,3 @@ notebooks/EDA.ipynb
 ```
 
 - Os notebooks teste_modelos.ipynb, localizados nas pastas de modelos, contêm comparações de diferentes algoritmos para escolher o melhor para cada tarefa.
-
-📁 Estrutura do Projeto (resumida)
-```bash
-├── data/
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── run.py
-│   └── ETL/
-├── models/
-│   ├── clusterizacao_cliente/
-│   └── previsao_consumo/
-├── requirements.txt
-├── README.md
-```
