@@ -1,6 +1,0 @@
-artifact_location: file:///d:/consumo_energetico/notebooks/ETL/../../mlruns/563149976947536598
-creation_time: 1753574281954
-experiment_id: '563149976947536598'
-last_update_time: 1753574281954
-lifecycle_stage: active
-name: modelo_classificacao_pipeline
