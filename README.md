@@ -21,6 +21,7 @@ Este repositório contém:
 
 📁 Estrutura do Projeto
 ```bash
+├── dashboards/
 ├── data/
 ├── notebooks/
 │   ├── EDA.ipynb
